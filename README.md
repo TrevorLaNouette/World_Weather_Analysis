@@ -4,7 +4,7 @@ After creating the PlanMyTrip app. Beta testers made a few suggested changes the
 
 - 1) the weather description to the weather data. 
 - 2) Create input statements to filter the data for users weather preferences
-- 3) Use the information to identify potential travel destinations and nearby hotels. (We picked 4 of these locations by hotel name)
+- 3) Use the information to identify potential travel destinations and nearby hotels. (We picked 4 of these locations)
 - 4) Using the Google Maps Directions API, create a travel route between the four cities as well as a marker layer map.
 
 ## Map of all hotels with in search preferences
